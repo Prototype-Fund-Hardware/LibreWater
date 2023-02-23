@@ -2,7 +2,8 @@
 
 Example:
 
-```|-- src
+```
+|-- src
 | |-- anim
 | | `-- assembly.blend
 | |-- calc
@@ -39,4 +40,5 @@ Example:
 | | `-- control_lib
 | |     |-- src
 | |     | `-- main.rs
-| |     `-- Cargo.toml```
+| |     `-- Cargo.toml
+```
