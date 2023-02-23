@@ -1,7 +1,7 @@
 (placeholder for guidelines)
 
 Example:
-
+```
 |-- res
 | |-- assets
 | | |-- media
@@ -21,3 +21,4 @@ Example:
 | `-- media
 |     `-- img
 |         `-- diagram-1.svg
+```
