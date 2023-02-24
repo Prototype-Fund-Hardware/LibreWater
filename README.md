@@ -208,14 +208,14 @@ Bodossaki Foundation Social Dynamo (Athens)
 Helidoni Foundation (Athens)
 
 In the Open Source Hardware stage:
-MIT Water Innovation Prize Semifinals (global)  
-Open Hardware Makers (global)
-Fab City Hamburg (Hamburg)
-Prototype Fund Hardware & Open Hardware Allianz (Berlin)
-Fabulous St.Pauli (Hamburg)
-Curious Community Labs (Hamburg)
-Odyssea (Athens)
-Hackerspace.gr (Athens)
+MIT Water Innovation Prize Semifinals (global)    
+Open Hardware Makers (global)  
+Fab City Hamburg (Hamburg)  
+Prototype Fund Hardware & Open Hardware Allianz (Berlin)  
+Fabulous St.Pauli (Hamburg)  
+Curious Community Labs (Hamburg)  
+Odyssea (Athens)  
+Hackerspace.gr (Athens)  
 
 
 ## Safety Disclaimer
