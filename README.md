@@ -23,14 +23,16 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OU
 (—) patented  
 (X) [free (as in freedom) - so anyone can study, modify, distribute, make, and sell the design](https://www.oshwa.org/definition/)
 
+###  Version 2.0 of Acraea is:
+(X) able to produce a limited amount of pure water from almost any water source  
+(X) Modular Design compatible for adaptation to solar-thermal and other heat sources  
+(X) Circular Design compatible for flexible mid-term design evolution  
+(X) Compatible for modular scale-up 
+
 ![](/res/assets/media/img/Img01_Acraea2.0_white.jpg)
 **Img.01:** Render of assembled Prototype
 
-### Version 2.0: Proof-Of-Concept   
-(X) Quality Criterium: Produces a limited amount of pure water from almost any water source  
-(X) Modular Design compatible for adaptation to solar-thermal and other heat sources  
-(X) Circular Design compatible for flexible mid-term design evolution  
-(X) Compatible for modular scale-up  
+ 
 
 ## Project Context:   
 
