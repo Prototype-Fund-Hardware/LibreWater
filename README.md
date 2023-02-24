@@ -204,8 +204,8 @@ Without the support of countless kind people from all over the place, we would n
 
 ## Support from Institutions and Spaces
 In the early stage of Blue Greece (we started with a different Mission)
-Bodossaki Foundation Social Dynamo (Athens)
-Helidoni Foundation (Athens)
+Bodossaki Foundation Social Dynamo (Athens)  
+Helidoni Foundation (Athens)  
 
 In the Open Source Hardware stage:
 MIT Water Innovation Prize Semifinals (global)    
