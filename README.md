@@ -82,7 +82,7 @@ The heat from the condensation process is recovered (Img.04) and heating the nex
 ## Modular Design Approach
 
 Acraea has been designed with circularity and modularity in mind. 
-For the full part overview with more details check out the Bill-Of-Materials (BOM.ods).
+For the full part overview with more details check out the [Bill-Of-Materials](bom.pdf).
 For following our design choices and bringing in your own ideas, please check out DesignPath.pdf (soon)
 
 ![](/res/assets/media/img/Img05_Acraea_2.0_Render_Explosion_View.jpg)  
