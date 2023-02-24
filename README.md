@@ -49,7 +49,8 @@ This design is part of the Prototyping for LibreWater.
 The [process of the rain](https://upload.wikimedia.org/wikipedia/commons/b/b1/Diagram_of_the_Water_Cycle.jpg) in a box with energy recovery.
 
 Water is evaporated to clean steam and condensed again on an array of metal plates:
-Creating highly pure water from almost any water source without the need for special filters.  #nofilter
+Creating highly pure water from almost any water source without the need for special filters.  #nofilter  
+The heat from the condensation process is recovered (Img.04) and heating the next saltwater film for evaporation. 
 
 -> Check out a short video of the running Module [here](LINK).
 
