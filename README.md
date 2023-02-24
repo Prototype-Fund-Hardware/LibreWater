@@ -42,7 +42,7 @@ This design is part of the Prototyping for LibreWater.
 **Owned by:** Turtles 
 
 
-![](/res/assets/media/img/Preview_Pitch_Play.jpg)(https://www.youtube.com/watch?v=Ojm_Nrax2sg)
+[![](/res/assets/media/img/Preview_Pitch_Play.jpg)](https://www.youtube.com/watch?v=Ojm_Nrax2sg)
 Here is a short intro video on Libre Water from a design contest in January 2023.
 
 
@@ -53,8 +53,8 @@ Water is evaporated to clean steam and condensed again on an array of metal plat
 Creating highly pure water from almost any water source without the need for special filters.  #nofilter  
 The heat from the condensation process is recovered (Img.04) and heating the next saltwater film for evaporation. 
 
-[![image alt text](image url link)](anchor link)
--> Check out a short video of the running Module [here](https://youtu.be/kDWv2w7YqlU).
+Check out a short video of the running module here: 
+[![](/res/assets/media/img/Preview_YouTube_VMED_play.jpg)](https://youtu.be/kDWv2w7YqlU)
 
 ![](/res/assets/media/img/Img03_VMED_Process_Drops.jpg)  
 **Img.03:**  Acraea 2.0 Running with removed sidewall. Heating plate on left corner of the photograph. Drops are growing from the condensation of pure steam.
