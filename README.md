@@ -22,7 +22,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OU
 (X) a Small Scale Desalination and Water Purification Prototype that is powered by electric   heating and has a built-in energy recovery using four stages.  
 [(—) patented](https://www.oshwa.org/definition/)
 
-![](/res/assets/media/img/Img01_Acraea2.0_white.jpg){width=100px} 
+![](/res/assets/media/img/Img01_Acraea2.0_white.jpg){width=50%} 
 **Img.01:** Render of assembled Prototype
 
 ### Version 2.0: Proof-Of-Concept   
@@ -51,6 +51,7 @@ Water is evaporated to clean steam and condensed again on an array of metal plat
 Creating highly pure water from almost any water source without the need for special filters.  #nofilter  
 The heat from the condensation process is recovered (Img.04) and heating the next saltwater film for evaporation. 
 
+[![image alt text](image url link)](anchor link)
 -> Check out a short video of the running Module [here](https://youtu.be/kDWv2w7YqlU).
 
 ![](/res/assets/media/img/Img03_VMED_Process_Drops.jpg)  
