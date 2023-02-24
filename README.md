@@ -57,7 +57,7 @@ Creating highly pure water from almost any water source without the need for spe
 **Img.03:**  Acraea 2.0 Running with removed sidewall. Heating plate on left corner of the photograph. Drops are growing from the condensation of pure steam.
 
 ![](res/assets/media/img/Img04_VMED_Process_Schematics.jpg)  
-**Img.04:** Process Schematics 
+**Img.04:** Process Schematics: The heat from condensation of fresh water is transferred ot the next stage
 
 
 ## Use-Cases: What is this prototype good for:
