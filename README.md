@@ -40,7 +40,9 @@ This design is part of the Prototyping for LibreWater.
 **Mission of LibreWater:**  Provide Free and Open Source Hardware Designs for Solar-thermal Desalination that can be manufactured locally in Makerspaces  
 **Currently hosted by:**  Blue Greece - an Open Source Hardware Developer Collective  
 **Owned by:** Turtles 
+  
 
+  
 
 [![](/res/assets/media/img/Preview_Pitch_Play.jpg)](https://www.youtube.com/watch?v=Ojm_Nrax2sg)
 Here is a short intro video on Libre Water from a design contest in January 2023.
