@@ -20,7 +20,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OU
 ### Acraea is:  
 (X) a [fresh water Nymph](https://en.wikipedia.org/wiki/Acraea) from ancient Greek mythology.  
 (X) a Small Scale Desalination and Water Purification Prototype that is powered by electric   heating and has a built-in energy recovery using four stages.  
-(—) patented
+(—) patented  
 (X) [free (as in freedom, so anyone can study, modify, distribute, make, and sell the design](https://www.oshwa.org/definition/)
 
 ![](/res/assets/media/img/Img01_Acraea2.0_white.jpg)
