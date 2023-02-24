@@ -53,9 +53,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OU
 
   
   
-
+### Here is a short intro video on Libre Water from a design contest in January 2023:
 [![](/res/assets/media/img/Preview_Pitch_Play.jpg)](https://www.youtube.com/watch?v=Ojm_Nrax2sg)
-Here is a short intro video on Libre Water from a design contest in January 2023.
+
 
 
 ## Core Technology: Vertical Multiple-Effect-Distillation  
