@@ -203,9 +203,10 @@ We kindly thank Michael for his [Solar Pura](https://www.appropedia.org/Solar_Pu
 Without the support of countless kind people from all over the place, we would never have gone on this adventure. You know who you are. It has been most importantly your ideas, your feedback, our sharing of time - often a little, sometimes a lot that has made this project a reality. This is the magic of Open Source Hardware, the magic of people joining together with collective intelligence. 
 
 ## Support from Institutions and Spaces
-In the early stage of Blue Greece (we started with a different Mission)
-Bodossaki Foundation Social Dynamo (Athens)  
+In the early stage of Blue Greece (we started with a different Mission: Reducing plastic waste by creating community-powered social beverages to Greek Islands)  
+Bodossaki Foundation Social Dynamo (Athens)    
 Helidoni Foundation (Athens)  
+
 
 In the Open Source Hardware stage:
 MIT Water Innovation Prize Semifinals (global)    
