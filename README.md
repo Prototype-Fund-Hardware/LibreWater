@@ -199,6 +199,25 @@ For any inquiries, suggestions, collaborations or just spreading your love, you 
 ## Inspiration
 We kindly thank Michael for his [Solar Pura](https://www.appropedia.org/Solar_Pura:_High-efficiency_vertical_solar_still) work on solar MED and Florian for his [MED Prototype](https://github.com/fsteckel/OpenWater). Furthermore, we like to acknowledge the contributions on VMED by [countless dedicated researchers over the past decades](https://www.sciencedirect.com/science/article/pii/S0011916422000273) and thank companies from the field for sharing their experiences.
 
+## Contributions from Individuals
+Without the support of countless kind people from all over the place, we would never have gone on this adventure. You know who you are. It has been most importantly your ideas, your feedback, our sharing of time - often a little, sometimes a lot that has made this project a reality. This is the magic of Open Source Hardware, the magic of people joining together with collective intelligence. 
+
+## Support from Institutions and Spaces
+In the early stage of Blue Greece (we started with a different Mission)
+Bodossaki Foundation Social Dynamo (Athens)
+Helidoni Foundation (Athens)
+
+In the Open Source Hardware stage:
+MIT Water Innovation Prize Semifinals (global)  
+Open Hardware Makers (global)
+Fab City Hamburg (Hamburg)
+Prototype Fund Hardware & Open Hardware Allianz (Berlin)
+Fabulous St.Pauli (Hamburg)
+Curious Community Labs (Hamburg)
+Odyssea (Athens)
+Hackerspace.gr (Athens)
+
+
 ## Safety Disclaimer
 
 This design has not been tested extensively. It has to be regarded as not yet suitable for:
