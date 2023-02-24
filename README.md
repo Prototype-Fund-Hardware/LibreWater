@@ -126,7 +126,7 @@ With kind support of OSH-AUTODOC & JC, we have created the assembly instructions
 
 ### Videos
 
-The above Assembly Manual is kept up-to-date documentation for assembly. If you want to see a video-style documentation under development, here is a YouTube Playlist. 
+The [Assembly Manual](https://codeberg.org/LibreWater/Acraea-Prototype/src/branch/main/doc/assembly/Acraea-2-0-assembly-manaual.pdf) is kept up-to-date documentation for assembly. If you want to see a video-style documentation under development, here is a YouTube Playlist. 
 The general design approach is still the same with minor differentiations to the latest release:
 sealings of feed and drainage 
 sidewalls
