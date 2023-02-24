@@ -22,8 +22,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OU
 (X) a Small Scale Desalination and Water Purification Prototype that is powered by electric   heating and has a built-in energy recovery using four stages.  
 [(—) patented](https://www.oshwa.org/definition/)
 
-<img src="/res/assets/media/img/Img01_Acraea2.0_white.jpg" alt="drawing" width="200"/>
-![](/res/assets/media/img/Img01_Acraea2.0_white.jpg)  
+![](/res/assets/media/img/Img01_Acraea2.0_white.jpg){width=100px} 
 **Img.01:** Render of assembled Prototype
 
 ### Version 2.0: Proof-Of-Concept   
