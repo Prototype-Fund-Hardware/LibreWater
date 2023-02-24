@@ -25,8 +25,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OU
 
 ###  Version 2.0 of Acraea is:
 (X) able to produce a limited amount of pure water from almost any water source  
-(X) Modular Design compatible for adaptation to solar-thermal and other heat sources  
-(X) Circular Design compatible for flexible mid-term design evolution  
+(X) a Modular Design compatible for adaptation to solar-thermal and other heat sources  
+(X) a Circular Design compatible for flexible mid-term design evolution  
 (X) Compatible for modular scale-up 
 
 ![](/res/assets/media/img/Img01_Acraea2.0_white.jpg)
@@ -36,13 +36,17 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OU
 
 ## Project Context:   
 
-This design is part of the Prototyping for LibreWater.
+### This design is part of the Prototyping for LibreWater.
+
+**Mission of LibreWater:**  Provide Free and Open Source Hardware Designs for Solar-thermal Desalination that can be manufactured locally in Makerspaces  
+**Currently hosted by:**  Blue Greece - an Open Source Hardware Developer Collective  
+**Owned by:** Turtles  
+  
+
 ![](/res/assets/media/img/Img02_LibreWater_v2.jpg)  
 **Img.02:** Libre Water Logo
    
-**Mission of LibreWater:**  Provide Free and Open Source Hardware Designs for Solar-thermal Desalination that can be manufactured locally in Makerspaces  
-**Currently hosted by:**  Blue Greece - an Open Source Hardware Developer Collective  
-**Owned by:** Turtles 
+
   
   
   
