@@ -42,7 +42,7 @@ This design is part of the Prototyping for LibreWater.
 **Currently hosted by:**  Blue Greece - an Open Source Hardware Developer Collective  
 **Owned by:** Turtles 
 
-[Here](LINK) is a short intro video on Libre Water from a design contest in January 2023.
+[Here](https://www.youtube.com/watch?v=Ojm_Nrax2sg) is a short intro video on Libre Water from a design contest in January 2023.
 
 
 ## Core Technology: Vertical Multiple-Effect-Distillation  
