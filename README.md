@@ -116,9 +116,11 @@ For following our design choices and bringing in your own ideas, please check ou
 Please mind the time it takes to 3D-Print the PETG Parts: one drainage can take about 3 hours, the parts of the tank all together also 6 hours.
 
 ## Assembly
-Through testing different styles of documentation, we found the assembly style  of OSH-AUTODOC to be most meaningful. Generally, we also provide How-To Videos on major releases.
-Assembly Manual
-With kind support of OSH-AUTODOC & JC, we have created the assembly instructions under: Acraea_Assembly.pdf 
+We are working on different approaches for assembly instructions. We foudn the approach of OSH-AUTODOC to be most meaningful and would be happy to hear your feedback. Generally, we also provide How-To Videos on major releases.
+
+###Assembly Manual
+Follow the [Assembly Manual](https://codeberg.org/LibreWater/Acraea-Prototype/src/branch/main/doc/assembly/Acraea-2-0-assembly-manaual.pdf) for Step-by-step instructions. 
+They were created with kind support of OSH-AUTODOC & JC.
 [OSH-AUTODOC](https://codeberg.org/osh-autodoc) is a FreeCAD Add-On under development to (semi) automatically generate documentation for Open Source Hardware. For more details, please contact JC or Pieter. 
 
 ![](/res/assets/media/img/Img07_OSH-Autodoc_Preview.jpg)  
@@ -126,7 +128,7 @@ With kind support of OSH-AUTODOC & JC, we have created the assembly instructions
 
 ### Videos
 
-The [Assembly Manual](https://codeberg.org/LibreWater/Acraea-Prototype/src/branch/main/doc/assembly/Acraea-2-0-assembly-manaual.pdf) is kept up-to-date documentation for assembly. If you want to see a video-style documentation under development, here is a YouTube Playlist. 
+The above assembly manual is kept up-to-date documentation for assembly. If you want to see a video-style documentation under development, here is a YouTube Playlist. 
 The general design approach is still the same with minor differentiations to the latest release:
 sealings of feed and drainage 
 sidewalls
