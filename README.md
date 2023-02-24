@@ -204,19 +204,19 @@ Without the support of countless kind people from all over the place, we would n
 
 ## Support from Institutions and Spaces
 In the early stage of Blue Greece (we started with a different Mission: Reducing plastic waste by creating community-powered social beverages to Greek Islands)  
-Bodossaki Foundation Social Dynamo (Athens)    
-Helidoni Foundation (Athens)  
+- Bodossaki Foundation Social Dynamo (Athens)    
+- Helidoni Foundation (Athens)  
 
 
-In the Open Source Hardware stage:
-MIT Water Innovation Prize Semifinals (global)    
-Open Hardware Makers (global)  
-Fab City Hamburg (Hamburg)  
-Prototype Fund Hardware & Open Hardware Allianz (Berlin)  
-Fabulous St.Pauli (Hamburg)  
-Curious Community Labs (Hamburg)  
-Odyssea (Athens)  
-Hackerspace.gr (Athens)  
+In the Open Source Hardware stage:  
+- MIT Water Innovation Prize Semifinals (global)    
+- Open Hardware Makers (global)  
+- Fab City Hamburg (Hamburg)  
+- Prototype Fund Hardware & Open Hardware Allianz (Berlin)  
+- Fabulous St.Pauli (Hamburg)  
+- Curious Community Labs (Hamburg)  
+- Odyssea (Athens)  
+- Hackerspace.gr (Athens)  
 
 
 ## Safety Disclaimer
