@@ -22,7 +22,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OU
 (X) a Small Scale Desalination and Water Purification Prototype that is powered by electric   heating and has a built-in energy recovery using four stages.  
 [(—) patented](https://www.oshwa.org/definition/)
 
-![](/res/assets/media/img/Img01_Acraea2.0_white.jpg){width=50%} 
+![](/res/assets/media/img/Img01_Acraea2.0_white.jpg)
 **Img.01:** Render of assembled Prototype
 
 ### Version 2.0: Proof-Of-Concept   
@@ -41,7 +41,9 @@ This design is part of the Prototyping for LibreWater.
 **Currently hosted by:**  Blue Greece - an Open Source Hardware Developer Collective  
 **Owned by:** Turtles 
 
-[Here](https://www.youtube.com/watch?v=Ojm_Nrax2sg) is a short intro video on Libre Water from a design contest in January 2023.
+
+![](/res/assets/media/img/Preview_Pitch_Play.jpg)(https://www.youtube.com/watch?v=Ojm_Nrax2sg)
+Here is a short intro video on Libre Water from a design contest in January 2023.
 
 
 ## Core Technology: Vertical Multiple-Effect-Distillation  
