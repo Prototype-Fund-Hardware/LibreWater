@@ -33,8 +33,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OU
 <img src="res/assets/media/img/Img01_Acraea2.0_white.jpg" alt="" width="800" />
 </p>
 
-**Img.01:** Render of assembled Prototype
-
+<p align="center">
+<b>Img.01</b>: Render of assembled Prototype
+</p>
  
 
 ## Project Context:   
@@ -49,8 +50,11 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OU
 <img src="res/assets/media/img/Img02_LibreWater_v2.jpg" alt="" width="600" />
 </p>
 
-**Img.02:** Libre Water Logo
-   
+<p align="center">
+<b>Img.02</b>: Libre Water Logo
+</p>
+
+  
 
   
 ### Here is a short intro video on Libre Water from a design contest in January 2023:
@@ -71,14 +75,20 @@ Check out a short video of the running module here:
 <img src="res/assets/media/img/Img03_VMED_Process_Drops.jpg" alt="" width="500" />
 </p>
 
-**Img.03:**  Acraea 2.0 Running with removed sidewall. Heating plate on left corner of the photograph. Drops are growing from the condensation of pure steam.
+<p align="center">
+<b>Img.03:</b>: Acraea 2.0 Running with removed sidewall. Heating plate on left corner of the photograph. Drops are growing from the condensation of pure steam.
+</p>
 
 
 <p align="center">
 <img src="res/assets/media/img/Img04_VMED_Process_Schematics.jpg" alt="" width="500" />
 </p>
  
-**Img.04:** Process Schematics: The heat from condensation of fresh water is transferred ot the next stage
+
+ <p align="center">
+<b>Img.04:</b>: Process Schematics: The heat from condensation of fresh water is transferred ot the next stage
+</p>
+ 
 
 
 ## Use-Cases: What is this prototype good for:
@@ -109,15 +119,20 @@ For following our design choices and bringing in your own ideas, please check ou
 <img src="res/assets/media/img/Img05_Acraea_2.0_Render_Explosion_View.jpg" alt="" width="500" />
 </p>
 
+ <p align="center">
+<b>Img.05:</b>: Render: Explosion View
+</p>
 
-**Img.05:** Render: Explosion View
+
 
 <p align="center">
 <img src="reres/assets/media/img/Img06_Components_Top_View.jpg" alt="" width="500" />
 </p>
- 
-**Img.06:** Render: Top view of components
 
+ <p align="center">
+<b>Img.06:</b>: Render: Top view of components
+</p>
+ 
 
 **Module: Casing**
 - CNC-Machined Plywood
@@ -152,10 +167,14 @@ They were created with kind support of OSH-AUTODOC & JC.
 [OSH-AUTODOC](https://codeberg.org/osh-autodoc) is a FreeCAD Add-On under development to (semi) automatically generate documentation for Open Source Hardware. For more details, please contact JC or Pieter. 
 
 <p align="center">
-<img src="res/assets/media/img/Img07_OSH-Autodoc_Preview.jpg" alt="" width="500" />
+<img src="res/assets/media/img/Img07_OSH-Autodoc_Preview.jpg" alt="" width="800" />
+</p>
+
+ <p align="center">
+<b>Img.07:</b>: Example of OSH-Autodoc generated assembly manual
 </p>
  
-**Img.07:** Example of OSH-Autodoc generated assembly manual
+
 
 ### Videos
 
@@ -167,8 +186,12 @@ sidewalls
 <p align="center">
 <img src="res/assets/media/img/Img08_Assembly_Video_Screenshot.png" alt="" width="500" />
 </p>
+
+ <p align="center">
+<b>Img.08:</b>: Screenshot of How-To Assembly Video
+</p>
  
-**Img.08:** Screenshot of How-To Assembly Video
+
 
 Please provide your feedback under turtles@bluegreece.org so we can optimize the next version:
 Libre Water - Acraea 2.0 Prototype Assembly 
@@ -217,8 +240,11 @@ For any inquiries, suggestions, collaborations or just spreading your love, you 
 <img src="res/assets/media/img/Img09_SeaEO.jpg" alt="" width="500" />
 </p>
 
+ <p align="center">
+<b>Img.09:</b>: Invitation from the SeaEO of LibreWater
+</p>
 
-**Img.09:** Invitation from the SeaEO of LibreWater
+ 
 
 ## Inspiration
 We kindly thank Michael for his [Solar Pura](https://www.appropedia.org/Solar_Pura:_High-efficiency_vertical_solar_still) work on solar MED and Florian for his [MED Prototype](https://github.com/fsteckel/OpenWater). Furthermore, we like to acknowledge the contributions on VMED by [countless dedicated researchers over the past decades](https://www.sciencedirect.com/science/article/pii/S0011916422000273) and thank companies from the field for sharing their experiences.
