@@ -58,7 +58,14 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OU
 
   
 ### Here is a short intro video on Libre Water from a design contest in January 2023:
-[![](/res/assets/media/img/Preview_Pitch_Play.jpg)](https://www.youtube.com/watch?v=Ojm_Nrax2sg)
+
+<p align="center"
+<a href="https://www.youtube.com/watch?v=Ojm_Nrax2sg" target="_blank">
+  <img width="500"  border="0" align="center"  src="res/assets/media/img/Preview_YouTube_VMED_play.jpg"/>
+</a>
+</p>
+
+
 
 
 ## Core Technology: Vertical Multiple-Effect-Distillation  
@@ -69,7 +76,12 @@ Creating highly pure water from almost any water source without the need for spe
 The heat from the condensation process is recovered (Img.04) and heating the next saltwater film for evaporation. 
 
 Check out a short video of the running module here: 
-[![](/res/assets/media/img/Preview_YouTube_VMED_play.jpg)](https://youtu.be/kDWv2w7YqlU)
+
+<p align="center">
+<a href="https://youtu.be/kDWv2w7YqlU" target="_blank">
+  <img width="500"  border="0" align="center"  src="res/assets/media/img/Preview_YouTube_VMED_play.jpg"/>
+</a>
+</p>
 
 <p align="center">
 <img src="res/assets/media/img/Img03_VMED_Process_Drops.jpg" alt="" width="500" />
@@ -161,7 +173,7 @@ Please mind the time it takes to 3D-Print the PETG Parts: one drainage can take 
 ## Assembly
 We are working on different approaches for assembly instructions. We found the approach of OSH-AUTODOC to be most meaningful and would be happy to hear your feedback. Generally, we also provide How-To Videos on major releases.
 
-###Assembly Manual
+### Assembly Manual
 Follow the [Assembly Manual](https://codeberg.org/LibreWater/Acraea-Prototype/src/branch/main/doc/assembly/Acraea-2-0-assembly-manaual.pdf) for Step-by-step instructions. 
 They were created with kind support of OSH-AUTODOC & JC.
 [OSH-AUTODOC](https://codeberg.org/osh-autodoc) is a FreeCAD Add-On under development to (semi) automatically generate documentation for Open Source Hardware. For more details, please contact JC or Pieter. 
