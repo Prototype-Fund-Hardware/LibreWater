@@ -30,7 +30,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OU
 (X) Compatible for modular scale-up 
 
 <p align="center">
-<img src="res/assets/media/img/Img01_Acraea2.0_white.jpg" alt="" width="500" />
+<img src="res/assets/media/img/Img01_Acraea2.0_white.jpg" alt="" width="800" />
 </p>
 
 **Img.01:** Render of assembled Prototype
@@ -46,21 +46,15 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OU
 **Owned by:** Turtles  
   
 <p align="center">
-<img src="res/assets/media/img/Img02_LibreWater_v2.jpg" alt="" width="500" />
+<img src="res/assets/media/img/Img02_LibreWater_v2.jpg" alt="" width="600" />
 </p>
 
 **Img.02:** Libre Water Logo
    
 
   
-  
-  
-
-  
-  
 ### Here is a short intro video on Libre Water from a design contest in January 2023:
 [![](/res/assets/media/img/Preview_Pitch_Play.jpg)](https://www.youtube.com/watch?v=Ojm_Nrax2sg)
-
 
 
 ## Core Technology: Vertical Multiple-Effect-Distillation  
