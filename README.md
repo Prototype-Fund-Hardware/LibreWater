@@ -175,8 +175,9 @@ We are working on different approaches for assembly instructions. We found the a
 
 ### Assembly Manual
 Follow the [Assembly Manual](https://codeberg.org/LibreWater/Acraea-Prototype/src/branch/main/doc/assembly/Acraea-2-0-assembly-manaual.pdf) for Step-by-step instructions. 
-They were created with kind support of OSH-AUTODOC & JC.
-[OSH-AUTODOC](https://codeberg.org/osh-autodoc) is a FreeCAD Add-On under development to (semi) automatically generate documentation for Open Source Hardware. For more details, please contact JC or Pieter. 
+They were created with kind support of OSH-AUTODOC & JC. <br />
+[OSH-AUTODOC](https://codeberg.org/osh-autodoc) is a FreeCAD Add-On under development to (semi) automatically generate documentation for Open Source Hardware. <br />
+For more details, please contact JC or Pieter. <br />
 
 <p align="center">
 <img src="res/assets/media/img/Img07_OSH-Autodoc_Preview.jpg" alt="" width="800" />
@@ -226,7 +227,7 @@ Performance can be assessed by knowing the electric heat input relative to the w
 
 ## Research: Acraea for Open Science
 
-Over the past 60 years, countless scientists and a few entrepreneurs have worked on Solar-Powered Multiple-Effect-Distillation. One of the most recent reviews is from January 2022 by Lim et al. from Korea Institute of Machinery & Materials:  [Designs and performance analysis of vertical multi-effect diffusion solar distiller: A review - ScienceDirect  (OpenAccess)](https://www.sciencedirect.com/science/article/pii/S0011916422000273)
+Over the past 60 years, countless scientists and a few entrepreneurs have worked on Solar-Powered Multiple-Effect-Distillation. <br /> One of the most recent reviews is from January 2022 by Lim et al. from Korea Institute of Machinery & Materials: <br /> [Designs and performance analysis of vertical multi-effect diffusion solar distiller: A review - ScienceDirect  (OpenAccess)](https://www.sciencedirect.com/science/article/pii/S0011916422000273)
 
 -> Check out selected sources and more info in the Science Folder (soon).
 
