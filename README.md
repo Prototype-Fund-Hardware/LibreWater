@@ -34,7 +34,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OU
 </p>
 
 <p align="center">
-<b>Img.01</b>: Render of assembled Prototype
+<b>Img.01:</b> Render of assembled Prototype
 </p>
  
 
@@ -51,7 +51,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OU
 </p>
 
 <p align="center">
-<b>Img.02</b>: Libre Water Logo
+<b>Img.02:</b> Libre Water Logo
 </p>
 
   
@@ -76,7 +76,7 @@ Check out a short video of the running module here:
 </p>
 
 <p align="center">
-<b>Img.03:</b>: Acraea 2.0 Running with removed sidewall. Heating plate on left corner of the photograph. Drops are growing from the condensation of pure steam.
+<b>Img.03:</b> Acraea 2.0 Running with removed sidewall. Heating plate on left corner of the photograph. Drops are growing from the condensation of pure steam.
 </p>
 
 
@@ -86,7 +86,7 @@ Check out a short video of the running module here:
  
 
  <p align="center">
-<b>Img.04:</b>: Process Schematics: The heat from condensation of fresh water is transferred ot the next stage
+<b>Img.04:</b> Process Schematics: The heat from condensation of fresh water is transferred ot the next stage
 </p>
  
 
@@ -120,7 +120,7 @@ For following our design choices and bringing in your own ideas, please check ou
 </p>
 
  <p align="center">
-<b>Img.05:</b>: Render: Explosion View
+<b>Img.05</b>: Render: Explosion View
 </p>
 
 
@@ -130,7 +130,7 @@ For following our design choices and bringing in your own ideas, please check ou
 </p>
 
  <p align="center">
-<b>Img.06:</b>: Render: Top view of components
+<b>Img.06:</b> Render: Top view of components
 </p>
  
 
@@ -171,7 +171,7 @@ They were created with kind support of OSH-AUTODOC & JC.
 </p>
 
  <p align="center">
-<b>Img.07:</b>: Example of OSH-Autodoc generated assembly manual
+<b>Img.07:</b> Example of OSH-Autodoc generated assembly manual
 </p>
  
 
@@ -188,7 +188,7 @@ sidewalls
 </p>
 
  <p align="center">
-<b>Img.08:</b>: Screenshot of How-To Assembly Video
+<b>Img.08:</b> Screenshot of How-To Assembly Video
 </p>
  
 
@@ -241,7 +241,7 @@ For any inquiries, suggestions, collaborations or just spreading your love, you 
 </p>
 
  <p align="center">
-<b>Img.09:</b>: Invitation from the SeaEO of LibreWater
+<b>Img.09:</b> Invitation from the SeaEO of LibreWater
 </p>
 
  
