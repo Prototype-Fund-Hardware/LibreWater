@@ -159,7 +159,7 @@ For following our design choices and bringing in your own ideas, please check ou
 Please mind the time it takes to 3D-Print the PETG Parts: one drainage can take about 3 hours, the parts of the tank all together also 6 hours.
 
 ## Assembly
-We are working on different approaches for assembly instructions. We foudn the approach of OSH-AUTODOC to be most meaningful and would be happy to hear your feedback. Generally, we also provide How-To Videos on major releases.
+We are working on different approaches for assembly instructions. We found the approach of OSH-AUTODOC to be most meaningful and would be happy to hear your feedback. Generally, we also provide How-To Videos on major releases.
 
 ###Assembly Manual
 Follow the [Assembly Manual](https://codeberg.org/LibreWater/Acraea-Prototype/src/branch/main/doc/assembly/Acraea-2-0-assembly-manaual.pdf) for Step-by-step instructions. 
