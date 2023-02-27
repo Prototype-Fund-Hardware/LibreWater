@@ -2,7 +2,7 @@
 
 a Small Scale Desalination and Water Purification Prototype that is powered by electric
 heating for scientific purpose and prototyping ahead according to the Libre Water Mission: <br>
-"Providing Free and Open Source Hardware Designs for Solar-thermal Desalination that can be manufactured locally in Makerspaces across the world"
+"Providing Free and Open Source Hardware Designs for Solar-thermal Desalination that can be manufactured and innovated locally in Makerspaces across the world"
 
 ## License
 Hardware is licensed under a CERN-OHL-S
@@ -44,7 +44,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OU
 
 ### This design is part of the Prototyping for LibreWater.
 
-**Mission of LibreWater:**  Provide Free and Open Source Hardware Designs for Solar-thermal Desalination that can be manufactured locally in Makerspaces  
+**Mission of LibreWater:**  Providing Free and Open Source Hardware Designs for Solar-thermal Desalination that can be manufactured and innovated locally in Makerspaces across the world  
 **Currently hosted by:**  Blue Greece - an Open Source Hardware Developer Collective  
 **Owned by:** Turtles  
   
