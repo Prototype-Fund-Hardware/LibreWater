@@ -1,7 +1,7 @@
 # Acraea-Prototype 
 
 a Small Scale Desalination and Water Purification Prototype that is powered by electric
-heating for scientific purpose and prototyping ahead according to the Libre Water Mission.
+heating for scientific purpose and prototyping ahead according to the [Libre Water Mission](https://codeberg.org/LibreWater/Acraea-Prototype#project-context).
 
 ## License
 Hardware is licensed under a CERN-OHL-S
