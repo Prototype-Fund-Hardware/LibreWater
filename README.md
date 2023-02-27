@@ -59,9 +59,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OU
   
 ### Here is a short intro video on Libre Water from a design contest in January 2023:
 
-<p align="center"
+<p align="center">
 <a href="https://www.youtube.com/watch?v=Ojm_Nrax2sg" target="_blank">
-  <img width="500"  border="0" align="center"  src="res/assets/media/img/Preview_YouTube_VMED_play.jpg"/>
+  <img width="500"  border="0" align="center"  src="res/assets/media/img/Preview_Pitch_Play.jpg"/>
 </a>
 </p>
 
