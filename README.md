@@ -84,7 +84,7 @@ Check out a short video of the running module here:
 </p>
 
 <p align="center">
-<img src="res/assets/media/img/Img03_VMED_Process_Drops.jpg" alt="" width="500" />
+<img src="res/assets/media/img/Img03_VMED_Process_Drops.jpg" alt="" width="800" />
 </p>
 
 <p align="center">
@@ -249,7 +249,7 @@ Would you like to flow along? Do you have any questions, ideas or general feedba
 For any inquiries, suggestions, collaborations or just spreading your love, you may reach us at librewater@posteo.net
 
 <p align="center">
-<img src="res/assets/media/img/Img09_SeaEO.jpg" alt="" width="500" />
+<img src="res/assets/media/img/Img09_SeaEO.jpg" alt="" width="600" />
 </p>
 
  <p align="center">
