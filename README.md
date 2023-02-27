@@ -81,7 +81,7 @@ Check out a short video of the running module here:
 
 
 <p align="center">
-<img src="res/assets/media/img/Img04_VMED_Process_Schematics.jpg" alt="" width="500" />
+<img src="res/assets/media/img/Img04_VMED_Process_Schematics.jpg" alt="" width="800" />
 </p>
  
 
@@ -116,7 +116,7 @@ For the full part overview with more details check out the [Bill-Of-Materials](b
 For following our design choices and bringing in your own ideas, please check out DesignPath.pdf (soon)
 
 <p align="center">
-<img src="res/assets/media/img/Img05_Acraea_2.0_Render_Explosion_View.jpg" alt="" width="500" />
+<img src="res/assets/media/img/Img05_Acraea_2.0_Render_Explosion_View.jpg" alt="" width="600" />
 </p>
 
  <p align="center">
@@ -126,7 +126,7 @@ For following our design choices and bringing in your own ideas, please check ou
 
 
 <p align="center">
-<img src="reres/assets/media/img/Img06_Components_Top_View.jpg" alt="" width="500" />
+<img src="res/assets/media/img/Img06_Components_Top_View.jpg" alt="" width="600" />
 </p>
 
  <p align="center">
