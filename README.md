@@ -193,10 +193,7 @@ For more details, please contact JC or Pieter. <br />
 
 ### Videos
 
-The above assembly manual is kept up-to-date documentation for assembly. If you want to see a video-style documentation under development, here is a YouTube Playlist. 
-The general design approach is still the same with minor differentiations to the latest release:
-sealings of feed and drainage 
-sidewalls
+Stay tuned, we are revising the video-assembly with the latest design update and will share it briefly. If you would like to engage and have ideas how to make clear and fun tutorials - please reach out to us on librewater@posteo.net. 
 
 <p align="center">
 <img src="res/assets/media/img/Img08_Assembly_Video_Screenshot.png" alt="" width="500" />
@@ -205,11 +202,7 @@ sidewalls
  <p align="center">
 <b>Img.08:</b> Screenshot of How-To Assembly Video
 </p>
- 
 
-
-Please provide your feedback under librewater@posteo.net so we can optimize the next version:
-Libre Water - Acraea 2.0 Prototype Assembly 
 
 ### Process Control
 
