@@ -48,15 +48,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OU
 **Currently hosted by:**  Blue Greece - an Open Source Hardware Developer Collective  
 **Owned by:** Turtles  
   
-<p align="center">
-<img src="res/assets/media/img/Img02_LibreWater_v2.jpg" alt="" width="600" />
-</p>
-
-<p align="center">
-<b>Img.02:</b> Libre Water Logo
-</p>
-
-  
 
   
 ### Here is a short intro video on Libre Water from a design contest in January 2023:
