@@ -251,8 +251,8 @@ For any inquiries, suggestions, collaborations or just spreading your love, you 
 
  
 
-## Inspiration from Science and 
-We kindly thank Michael for his [Solar Pura](https://www.appropedia.org/Solar_Pura:_High-efficiency_vertical_solar_still) work on solar MED and Florian for his [MED Prototype](https://github.com/fsteckel/OpenWater). Furthermore, we like to acknowledge the contributions on VMED by [countless dedicated researchers over the past decades](https://www.sciencedirect.com/science/article/pii/S0011916422000273) and thank companies from the field for sharing their experiences.
+## Related Open Source Hardware Projects
+We thank Michael for his [Solar Pura](https://www.appropedia.org/Solar_Pura:_High-efficiency_vertical_solar_still) and Florian for his [MED Prototype](https://github.com/fsteckel/OpenWater). 
 
 ## Contributions from Individuals
 The list of contributors and supporters is endless. What would be an appropriate way to mention all of them? Is it meaningful to do so? We are still thinking about how to give credit and also give back in the best way. 
