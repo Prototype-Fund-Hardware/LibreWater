@@ -1,13 +1,13 @@
 # Acraea-Prototype 
 
-a Small Scale Desalination and Water Purification Prototype that is powered by electric
+a Small Scale Solar Desalination and Water Purification Prototype. Is powered by electric
 heating for scientific purpose and prototyping ahead according to the Libre Water Mission: <br>
 "Providing Free and Open Source Hardware Designs for Solar-thermal Desalination that can be manufactured and innovated locally in Makerspaces across the world"
 
 ## License
-Hardware is licensed under a CERN-OHL-S
+Hardware is licensed under a [CERN-OHL-S v2 license](https://ohwr.org/cern_ohl_s_v2.txt)
 
-Documentation is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. <br />
+Documentation is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) <br />
 This applies to all design files (CAD, BOM, etc.)
 
 ## Disclaimer
