@@ -84,7 +84,7 @@ Check out a short video of the running module here:
   <img width="500"  border="0" align="center"  src="res/assets/media/img/Preview_YouTube_VMED_play.jpg"/>
 </a>
 </p>
-
+<br><br>
 <p align="center">
 <img src="res/assets/media/img/Img03_VMED_Process_Drops.jpg" alt="" width="800" />
 </p>
@@ -259,23 +259,20 @@ The list of contributors and supporters is endless. What would be an appropriate
 One thing is for sure: Without the support of countless kind people from all over the world, we would never have gone on this adventure. You know who you are. It has been most importantly your ideas, your feedback, our sharing of time - often a little, sometimes a lot that has made this project a reality. <br> 
 This is the magic of Open Source Hardware, the magic of people joining together with collective intelligence. 
 
-## Support from Institutions and Spaces
-In the early stage of Blue Greece  <b>
-(we started with a different Mission: Reducing plastic waste by creating community-powered social beverages to Greek Islands)  
-- [Bodossaki Foundation Social Dynamo](https://www.socialdynamo.gr/en/social-dynamo/) (Athens)    
-- [Helidoni Foundation](https://helidonifoundation.org/) (Athens)  
+## Support from Institutions and Spaces 
 
+In alphabetical order:
 
-In the Open Source Hardware stage:  
-- [MIT Water Innovation Prize Semifinals](http://www.mitwaterinnovation.org/) (global)    
-- [Open Hardware Makers](https://openhardware.space/) (global)  
-- [Fab City Hamburg](https://www.fabcity.hamburg) (Hamburg)  
-- [Prototype Fund Hardware](https://hardware.prototypefund.de/) (Berlin)  
-- [Fabulous St.Pauli](https://www.fablab-hamburg.org/) (Hamburg)  
+- [Bodossaki Foundation Social Dynamo](https://www.socialdynamo.gr/en/social-dynamo/) (Athens)  
 - [Curious Community Labs](https://curious.bio/) (Hamburg)  
-- [Odyssea](https://odyssea.com) (Athens)  
+- [Fabulous St.Pauli](https://www.fablab-hamburg.org/) (Hamburg)  
+- [Fab City Hamburg](https://www.fabcity.hamburg) (Hamburg)  
 - [Hackerspace.gr](https://www.hackerspace.gr) (Athens)  
-
+- [Helidoni Foundation](https://helidonifoundation.org/) (Athens)  
+- [MIT Water Innovation Prize Semifinals](http://www.mitwaterinnovation.org/) (global)    
+- [Odyssea](https://odyssea.com) (Athens)  
+- [Open Hardware Makers](https://openhardware.space/) (global)  
+- [Prototype Fund Hardware](https://hardware.prototypefund.de/) (Berlin)  
 
 ## Safety Disclaimer
 
