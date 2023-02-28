@@ -208,7 +208,7 @@ sidewalls
  
 
 
-Please provide your feedback under turtles@bluegreece.org so we can optimize the next version:
+Please provide your feedback under librewater@posteo.net so we can optimize the next version:
 Libre Water - Acraea 2.0 Prototype Assembly 
 
 ### Process Control
