@@ -71,7 +71,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OU
 
 
 ## Core Technology: Vertical Multiple-Effect-Distillation  
-The [process of the rain](https://upload.wikimedia.org/wikipedia/commons/b/b1/Diagram_of_the_Water_Cycle.jpg) in a box with energy recovery.
+The [process of the rain](https://upload.wikimedia.org/wikipedia/commons/b/b1/Diagram_of_the_Water_Cycle.jpg) in a box with integrated energy recovery.
 
 Water is evaporated to clean steam and condensed again on an array of metal plates:
 Creating highly pure water from almost any water source without the need for special filters.  #nofilter  
