@@ -25,7 +25,8 @@ and for prototyping ahead according to the Libre Water Mission:
 
 ## License
 
-Hardware is licensed under a [CERN-OHL-S v2 license](https://ohwr.org/cern_ohl_s_v2.txt)
+Hardware and Firmware is licensed under the [CERN-OHL-S v2 license](
+https://ohwr.org/cern_ohl_s_v2.txt)
 
 Documentation is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License](
