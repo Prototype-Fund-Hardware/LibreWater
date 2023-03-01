@@ -16,6 +16,10 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 [![REUSE status](
     https://api.reuse.software/badge/codeberg.org/LibreWater/Acraea-Prototype)](
     https://api.reuse.software/info/codeberg.org/LibreWater/Acraea-Prototype)
+[![OSH Openness](
+    https://osegermany.gitlab.io/ohloom/osh-badge-openness.svg)](
+    https://osegermany.gitlab.io/ohloom/osh-report.html)
+
 Acraea is a Small Scale Solar Desalination and Water Purification Prototype. \
 It is powered by electric heating for scientific purpose
 and for prototyping ahead according to the Libre Water Mission:
@@ -64,13 +68,8 @@ This applies to all design files (CAD, BOM, etc.).
 - [x] a Circular Design compatible for flexible mid-term design evolution
 - [x] Compatible for modular scale-up
 
-<p align="center">
-<img src="res/assets/media/img/Acraea2.0_white.jpg" alt="" width="800" />
-</p>
-
-<p align="center">
-<b>Img.01:</b> Render of assembled Prototype
-</p>
+![__Img.01__: Render of assembled Prototype](
+res/assets/media/img/Acraea2.0_white.jpg)
 
 ## Project Context
 
@@ -91,11 +90,9 @@ Turtles
 
 ### Here is a short intro video on Libre Water from a design contest in January 2023
 
-<p align="center">
-<a href="https://www.youtube.com/watch?v=Ojm_Nrax2sg" target="_blank">
-  <img width="500"  border="0" align="center"  src="res/assets/media/img/Preview_Pitch_Play.jpg"/>
-</a>
-</p>
+[![](
+res/assets/media/img/Preview_Pitch_Play.jpg)](
+https://www.youtube.com/watch?v=Ojm_Nrax2sg)
 
 ## Core Technology: Vertical Multiple-Effect-Distillation
 
@@ -111,31 +108,20 @@ and heating the next saltwater film for evaporation.
 
 Check out a short video of the running module here:
 
-<p align="center">
-<a href="https://youtu.be/kDWv2w7YqlU" target="_blank">
-  <img width="500"  border="0" align="center" src="res/assets/media/img/Preview_YouTube_VMED_play.jpg"/>
-</a>
-</p>
+[![](
+res/assets/media/img/Preview_YouTube_VMED_play.jpg)](
+https://www.youtube.com/watch?v=kDWv2w7YqlU)
 
-<p align="center">
-<img src="res/assets/media/img/VMED_Process_Drops.jpg" alt="" width="800" />
-</p>
+![__Img.03__: Acraea 2.0 Running with removed sidewall](
+res/assets/media/img/VMED_Process_Drops.jpg)
 
-<p align="center">
-<b>Img.03:</b>
-Acraea 2.0 Running with removed sidewall.
 Heating plate on left corner of the photograph.
 Drops are growing from the condensation of pure steam.
-</p>
 
-<p align="center">
-<img src="res/assets/media/img/VMED_Process_Schematics.jpg" alt="" width="800" />
-</p>
+![__Img.04__: Process Schematics](
+res/assets/media/img/VMED_Process_Schematics.jpg)
 
- <p align="center">
-<b>Img.04:</b> Process Schematics:
 The heat from condensation of fresh water is transferred ot the next stage
-</p>
 
 ## Use-Cases: What is this prototype good for
 
@@ -167,21 +153,11 @@ check out the [Bill-Of-Materials](gen/bom.pdf).
 For following our design choices and to bring in your own ideas,
 please check out DesignPath.pdf (comming soon) <!-- TODO Add this file! -->
 
-<p align="center">
-<img src="res/assets/media/img/Acraea_2.0_Render_Explosion_View.jpg" alt="" width="600" />
-</p>
+![__Img.05__: Render: Explosion View](
+res/assets/media/img/Acraea_2.0_Render_Explosion_View.jpg)
 
- <p align="center">
-<b>Img.05</b>: Render: Explosion View
-</p>
-
-<p align="center">
-<img src="res/assets/media/img/Components_Top_View.jpg" alt="" width="600" />
-</p>
-
- <p align="center">
-<b>Img.06:</b> Render: Top view of components
-</p>
+![__Img.06__: Render: Top view of components](
+res/assets/media/img/Components_Top_View.jpg)
 
 ### Module: Casing
 
@@ -229,13 +205,8 @@ They were created with kind support of OSH-AUTODOC & JC. \
 to (semi) automatically generate documentation for Open Source Hardware. \
 For more details, please contact JC or Pieter. <!-- TODO Add contact info/link! -->
 
-<p align="center">
-<img src="res/assets/media/img/OSH-Autodoc_Preview.jpg" alt="" width="800" />
-</p>
-
- <p align="center">
-<b>Img.07:</b> Example of OSH-Autodoc generated assembly manual
-</p>
+![__Img.07__: Example of OSH-Autodoc generated assembly manual](
+res/assets/media/img/OSH-Autodoc_Preview.jpg)
 
 ### Videos
 
@@ -245,13 +216,8 @@ and will share it shortly.
 If you would like to engage and have ideas how to make clear and fun tutorials,
 please reach out to us on <mailto:librewater@posteo.net>.
 
-<p align="center">
-<img src="res/assets/media/img/Assembly_Video_Screenshot.png" alt="" width="500" />
-</p>
-
- <p align="center">
-<b>Img.08:</b> Screenshot of How-To Assembly Video
-</p>
+![__Img.08__: Screenshot of How-To Assembly Video](
+res/assets/media/img/Assembly_Video_Screenshot.png)
 
 ### Process Control
 
@@ -311,13 +277,8 @@ Do you have any questions, ideas or general feedback?
 For any inquiries, suggestions, collaborations or just spreading your love,
 you may reach us at <mailto:librewater@posteo.net>.
 
-<p align="center">
-<img src="res/assets/media/img/SeaEO.jpg" alt="" width="600" />
-</p>
-
- <p align="center">
-<b>Img.09:</b> Invitation from the SeaEO of LibreWater
-</p>
+![__Img.09__: Invitation from the SeaEO of LibreWater](
+res/assets/media/img/SeaEO.jpg)
 
 ## Related Open Source Hardware Projects
 
