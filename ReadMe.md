@@ -314,6 +314,7 @@ In alphabetical order:
 - [MIT Water Innovation Prize Semifinals](http://www.mitwaterinnovation.org/) (global)
 - [Odyssea](https://odyssea.com) (Athens)
 - [Open Hardware Makers](https://openhardware.space/) (global)
+- [P2Plab](https://www.p2plab.gr/en/) (Greece)
 - [Prototype Fund Hardware](https://hardware.prototypefund.de/) (Berlin)
 
 ## Safety Disclaimer
