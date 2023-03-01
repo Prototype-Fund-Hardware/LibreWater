@@ -7,6 +7,12 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 # Acraea-Prototype
 
+[![License: CERN-OHL-S-2.0](
+    https://img.shields.io/badge/License-CERN--OHL--S--2.0-blue.svg)](
+    https://spdx.org/licenses/CERN-OHL-S-2.0.html)
+[![License: CC-BY-SA-4.0](
+    https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue.svg)](
+    https://creativecommons.org/licenses/by-sa/4.0/)
 Acraea is a Small Scale Solar Desalination and Water Purification Prototype. \
 It is powered by electric heating for scientific purpose
 and for prototyping ahead according to the Libre Water Mission:
