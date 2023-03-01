@@ -56,10 +56,11 @@ This applies to all design files (CAD, BOM, etc.).
 - [x] [free (as in freedom) - so anyone can study, modify, distribute, make,
   and sell the design](https://www.oshwa.org/definition/)
 
-###  Version 2.0 of Acraea is
+### Version 2.0 of Acraea is
 
 - [x] able to produce a limited amount of pure water from almost any water source
-- [x] a Modular Design compatible for adaptation to solar-thermal and other heat sources
+- [x] a Modular Design compatible for adaptation to solar-thermal
+  and other heat sources
 - [x] a Circular Design compatible for flexible mid-term design evolution
 - [x] Compatible for modular scale-up
 
@@ -151,7 +152,8 @@ The heat from condensation of fresh water is transferred ot the next stage
 
 - simple production and assembly
 - high responsiveness: fast start-up time
-- uniting a broad field of disciplines: 3D Printing, CNC Milling, Sewing, Coding, Electronics
+- uniting a broad field of disciplines: 3D Printing,
+  CNC Milling, Sewing, Coding, Electronics
 - familiarizing with Open Source Collaboration
 
 ## Modular Design Approach
@@ -284,7 +286,8 @@ by Lim et al. from Korea Institute of Machinery & Materials: \
 A review - ScienceDirect (OpenAccess)](
 https://www.sciencedirect.com/science/article/pii/S0011916422000273)
 
--> Check out selected sources and more info in the Science Folder (soon) <!-- TODO Add this folder! -->
+-> Check out selected sources and more info
+in the Science Folder (soon) <!-- TODO Add this folder! -->
 
 ## Ideas for next Iterations
 
@@ -324,7 +327,8 @@ and Florian for his [MED Prototype](https://github.com/fsteckel/OpenWater).
 The list of contributors and supporters is endless.
 What would be an appropriate way to mention all of them?
 Is it meaningful to do so?
-We are still thinking about how to give credit and also give back in the best way. \
+We are still thinking about how to give credit
+and also give back in the best way. \
 One thing is for sure:
 Without the support of countless kind people from all over the world,
 we would never have gone on this adventure.
@@ -339,7 +343,8 @@ the magic of people joining together with collective intelligence.
 
 In alphabetical order:
 
-- [Bodossaki Foundation Social Dynamo](https://www.socialdynamo.gr/en/social-dynamo/) (Athens)
+- [Bodossaki Foundation Social Dynamo](https://www.socialdynamo.gr/en/social-dynamo/)
+  (Athens)
 - [Curious Community Labs](https://curious.bio/) (Hamburg)
 - [Fabulous St.Pauli](https://www.fablab-hamburg.org/) (Hamburg)
 - [Fab City Hamburg](https://www.fabcity.hamburg) (Hamburg)
