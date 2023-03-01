@@ -160,7 +160,7 @@ The heat from condensation of fresh water is transferred ot the next stage
 
 Acraea has been designed with circularity and modularity in mind.
 For the full part overview with more details,
-check out the [Bill-Of-Materials](bom.pdf).
+check out the [Bill-Of-Materials](gen/bom.pdf).
 For following our design choices and to bring in your own ideas,
 please check out DesignPath.pdf (comming soon) <!-- TODO Add this file! -->
 
@@ -219,7 +219,7 @@ Generally, we also provide How-To Videos on major releases.
 
 ### Assembly Manual
 
-Follow the [Assembly Manual](doc/assembly/Acraea-2-0-assembly-manaual.pdf)
+Follow the [Assembly Manual](gen/assembly/assembly-manual.pdf)
 for Step-by-step instructions.
 They were created with kind support of OSH-AUTODOC & JC. \
 [OSH-AUTODOC](https://codeberg.org/osh-autodoc) is a FreeCAD Add-On under development,
@@ -260,8 +260,8 @@ by an Arduino or ESP32 controlled relay,
 connected to a 24 V power supply which is powering three 24 V heating pads
 on the first stage.
 
--> Check out the [Wiring instructions](doc/assembly/acraea-2.0-wiring.pdf)
-for the setup and the code under [TurtleHeat_v3.ino](src/firnmware/TurtleHeat_v3.ino).
+-> Check out the [Wiring instructions](gen/assembly/wiring.pdf)
+for the setup and the code under [TurtleHeat_v3.ino](src/firmware/TurtleHeat.ino).
 
 ### Feed water input
 
@@ -349,7 +349,7 @@ In alphabetical order:
 - [Fabulous St.Pauli](https://www.fablab-hamburg.org/) (Hamburg)
 - [Fab City Hamburg](https://www.fabcity.hamburg) (Hamburg)
 - [Hackerspace.gr](https://www.hackerspace.gr) (Athens)
-- [Helidoni Foundation](https://helidonifoundation.org/) (Athens)
+- [Helidoni Foundation](https://www.helidonifoundation.org/) (Athens)
 - [MIT Water Innovation Prize Semifinals](http://www.mitwaterinnovation.org/) (global)
 - [Odyssea](https://odyssea.com) (Athens)
 - [Open Hardware Makers](https://openhardware.space/) (global)
