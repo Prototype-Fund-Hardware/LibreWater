@@ -16,6 +16,9 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 [![REUSE status](
     https://api.reuse.software/badge/codeberg.org/LibreWater/Acraea-Prototype)](
     https://api.reuse.software/info/codeberg.org/LibreWater/Acraea-Prototype)
+[![OSH Openness](
+    https://osegermany.gitlab.io/ohloom/osh-badge-openness.svg)](
+    https://osegermany.gitlab.io/ohloom/osh-report.html)
 
 Acraea is a Small Scale Solar Desalination and Water Purification Prototype. \
 It is powered by electric heating for scientific purpose
