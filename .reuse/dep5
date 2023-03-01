@@ -1,0 +1,21 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Acraea
+Upstream-Contact:
+    2023 Terry Turtle <librewater@posteo.net>
+    2023 inspyros <spyros@bluegreece.org>
+Source: https://codeberg.org/LibreWater/Acraea-Prototype/
+
+Files: gen/**.*
+Copyright:
+    2023 Terry Turtle <librewater@posteo.net>
+    2023 inspyros <spyros@bluegreece.org>
+License: CC-BY-SA-4.0
+
+Files:
+    bom.ods
+    doc/assembly/wiring.odp
+    res/assets/media/img/*
+Copyright:
+    2023 Terry Turtle <librewater@posteo.net>
+    2023 inspyros <spyros@bluegreece.org>
+License: CC-BY-SA-4.0

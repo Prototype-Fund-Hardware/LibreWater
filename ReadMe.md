@@ -1,3 +1,10 @@
+<!--
+SPDX-FileCopyrightText: 2023 Terry Turtle <librewater@posteo.net>
+SPDX-FileCopyrightText: 2023 inspyros <spyros@bluegreece.org>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 # Acraea-Prototype
 
 Acraea is a Small Scale Solar Desalination and Water Purification Prototype. \

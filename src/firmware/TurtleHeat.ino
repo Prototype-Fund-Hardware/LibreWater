@@ -1,3 +1,8 @@
+// SPDX-FileCopyrightText: 2023 Terry Turtle <librewater@posteo.net>
+// SPDX-FileCopyrightText: 2023 inspyros <spyros@bluegreece.org>
+//
+// SPDX-License-Identifier: CERN-OHL-S-2.0
+
 // assigning variables to the digital pins on the arduino board
 const int RELAY_1 = 27;
 const int RELAY_2 = 14;
