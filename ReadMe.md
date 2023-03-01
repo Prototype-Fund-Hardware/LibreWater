@@ -76,14 +76,17 @@ This applies to all design files (CAD, BOM, etc.).
 
 ### This design is part of the Prototyping for LibreWater
 
-**Mission of LibreWater:**
+### Mission of LibreWater
+
 Providing Free and Open Source Hardware Designs for Solar-thermal Desalination
 that can be manufactured and innovated locally in Makerspaces across the world
 
-**Currently hosted by:**
+### Currently hosted by
+
 Blue Greece - an Open Source Hardware Developer Collective
 
-**Owned by:**
+### Owned by
+
 Turtles
 
 ### Here is a short intro video on Libre Water from a design contest in January 2023
