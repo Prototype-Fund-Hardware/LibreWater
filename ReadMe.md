@@ -32,7 +32,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OU
 (X) Compatible for modular scale-up 
 
 <p align="center">
-<img src="res/assets/media/img/Img01_Acraea2.0_white.jpg" alt="" width="800" />
+<img src="res/assets/media/img/Acraea2.0_white.jpg" alt="" width="800" />
 </p>
 
 <p align="center">
@@ -77,7 +77,7 @@ Check out a short video of the running module here:
 </p>
 <br><br>
 <p align="center">
-<img src="res/assets/media/img/Img03_VMED_Process_Drops.jpg" alt="" width="800" />
+<img src="res/assets/media/img/VMED_Process_Drops.jpg" alt="" width="800" />
 </p>
 
 <p align="center">
@@ -86,7 +86,7 @@ Check out a short video of the running module here:
 
 
 <p align="center">
-<img src="res/assets/media/img/Img04_VMED_Process_Schematics.jpg" alt="" width="800" />
+<img src="res/assets/media/img/VMED_Process_Schematics.jpg" alt="" width="800" />
 </p>
  
 
@@ -121,7 +121,7 @@ For the full part overview with more details check out the [Bill-Of-Materials](b
 For following our design choices and bringing in your own ideas, please check out DesignPath.pdf (soon)
 
 <p align="center">
-<img src="res/assets/media/img/Img05_Acraea_2.0_Render_Explosion_View.jpg" alt="" width="600" />
+<img src="res/assets/media/img/Acraea_2.0_Render_Explosion_View.jpg" alt="" width="600" />
 </p>
 
  <p align="center">
@@ -131,7 +131,7 @@ For following our design choices and bringing in your own ideas, please check ou
 
 
 <p align="center">
-<img src="res/assets/media/img/Img06_Components_Top_View.jpg" alt="" width="600" />
+<img src="res/assets/media/img/Components_Top_View.jpg" alt="" width="600" />
 </p>
 
  <p align="center">
@@ -173,7 +173,7 @@ They were created with kind support of OSH-AUTODOC & JC. <br />
 For more details, please contact JC or Pieter. <br />
 
 <p align="center">
-<img src="res/assets/media/img/Img07_OSH-Autodoc_Preview.jpg" alt="" width="800" />
+<img src="res/assets/media/img/OSH-Autodoc_Preview.jpg" alt="" width="800" />
 </p>
 
  <p align="center">
@@ -187,7 +187,7 @@ For more details, please contact JC or Pieter. <br />
 Stay tuned, we are revising the video-assembly with the latest design update and will share it briefly. If you would like to engage and have ideas how to make clear and fun tutorials - please reach out to us on librewater@posteo.net. 
 
 <p align="center">
-<img src="res/assets/media/img/Img08_Assembly_Video_Screenshot.png" alt="" width="500" />
+<img src="res/assets/media/img/Assembly_Video_Screenshot.png" alt="" width="500" />
 </p>
 
  <p align="center">
@@ -233,7 +233,7 @@ Would you like to flow along? Do you have any questions, ideas or general feedba
 For any inquiries, suggestions, collaborations or just spreading your love, you may reach us at librewater@posteo.net
 
 <p align="center">
-<img src="res/assets/media/img/Img09_SeaEO.jpg" alt="" width="600" />
+<img src="res/assets/media/img/SeaEO.jpg" alt="" width="600" />
 </p>
 
  <p align="center">
