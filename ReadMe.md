@@ -1,6 +1,6 @@
-# Acraea-Prototype 
+# Acraea-Prototype
 
-Acraea is a Small Scale Solar Desalination and Water Purification Prototype. <br> 
+Acraea is a Small Scale Solar Desalination and Water Purification Prototype. <br>
 It is powered by electric heating for scientific purpose and for prototyping ahead according to the Libre Water Mission: <br><br>
 "Providing Free and Open Source Hardware Designs for Solar-thermal Desalination that can be manufactured and innovated locally in Makerspaces across the world"
 
@@ -19,17 +19,17 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OU
 
 ## Acraea - Short Info:
 
-### Acraea is:  
-(X) a [fresh water Nymph](https://en.wikipedia.org/wiki/Acraea) from ancient Greek mythology.  
-(X) a Small Scale Desalination and Water Purification Prototype that is powered by electric   heating and has a built-in energy recovery using four stages.  
-(—) patented  
+### Acraea is:
+(X) a [fresh water Nymph](https://en.wikipedia.org/wiki/Acraea) from ancient Greek mythology.
+(X) a Small Scale Desalination and Water Purification Prototype that is powered by electric   heating and has a built-in energy recovery using four stages.
+(—) patented
 (X) [free (as in freedom) - so anyone can study, modify, distribute, make, and sell the design](https://www.oshwa.org/definition/)
 
 ###  Version 2.0 of Acraea is:
-(X) able to produce a limited amount of pure water from almost any water source  
-(X) a Modular Design compatible for adaptation to solar-thermal and other heat sources  
-(X) a Circular Design compatible for flexible mid-term design evolution  
-(X) Compatible for modular scale-up 
+(X) able to produce a limited amount of pure water from almost any water source
+(X) a Modular Design compatible for adaptation to solar-thermal and other heat sources
+(X) a Circular Design compatible for flexible mid-term design evolution
+(X) Compatible for modular scale-up
 
 <p align="center">
 <img src="res/assets/media/img/Acraea2.0_white.jpg" alt="" width="800" />
@@ -38,18 +38,18 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OU
 <p align="center">
 <b>Img.01:</b> Render of assembled Prototype
 </p>
- 
 
-## Project Context:   
+
+## Project Context:
 
 ### This design is part of the Prototyping for LibreWater.
 
-**Mission of LibreWater:**  Providing Free and Open Source Hardware Designs for Solar-thermal Desalination that can be manufactured and innovated locally in Makerspaces across the world  
-**Currently hosted by:**  Blue Greece - an Open Source Hardware Developer Collective  
-**Owned by:** Turtles  
-  
+**Mission of LibreWater:**  Providing Free and Open Source Hardware Designs for Solar-thermal Desalination that can be manufactured and innovated locally in Makerspaces across the world
+**Currently hosted by:**  Blue Greece - an Open Source Hardware Developer Collective
+**Owned by:** Turtles
 
-  
+
+
 ### Here is a short intro video on Libre Water from a design contest in January 2023:
 
 <p align="center">
@@ -61,14 +61,14 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OU
 
 
 
-## Core Technology: Vertical Multiple-Effect-Distillation  
+## Core Technology: Vertical Multiple-Effect-Distillation
 The [process of the rain](https://upload.wikimedia.org/wikipedia/commons/b/b1/Diagram_of_the_Water_Cycle.jpg) in a box with integrated energy recovery.
 
 Water is evaporated to clean steam and condensed again on an array of metal plates:
-Creating highly pure water from almost any water source without the need for special filters.  #nofilter  
-The heat from the condensation process is recovered (Img.04) and heating the next saltwater film for evaporation. 
+Creating highly pure water from almost any water source without the need for special filters.  #nofilter
+The heat from the condensation process is recovered (Img.04) and heating the next saltwater film for evaporation.
 
-Check out a short video of the running module here: 
+Check out a short video of the running module here:
 
 <p align="center">
 <a href="https://youtu.be/kDWv2w7YqlU" target="_blank">
@@ -88,12 +88,12 @@ Check out a short video of the running module here:
 <p align="center">
 <img src="res/assets/media/img/VMED_Process_Schematics.jpg" alt="" width="800" />
 </p>
- 
+
 
  <p align="center">
 <b>Img.04:</b> Process Schematics: The heat from condensation of fresh water is transferred ot the next stage
 </p>
- 
+
 
 
 ## Use-Cases: What is this prototype good for:
@@ -116,7 +116,7 @@ Check out a short video of the running module here:
 
 ## Modular Design Approach
 
-Acraea has been designed with circularity and modularity in mind. 
+Acraea has been designed with circularity and modularity in mind.
 For the full part overview with more details check out the [Bill-Of-Materials](bom.pdf).
 For following our design choices and bringing in your own ideas, please check out DesignPath.pdf (soon)
 
@@ -137,7 +137,7 @@ For following our design choices and bringing in your own ideas, please check ou
  <p align="center">
 <b>Img.06:</b> Render: Top view of components
 </p>
- 
+
 
 **Module: Casing**
 - CNC-Machined Plywood
@@ -148,18 +148,18 @@ For following our design choices and bringing in your own ideas, please check ou
 
 **Module: Heating**
 - Electric: 24V IPX7 Silicon Patches (note: currently still proprietary)
- 
-**Module: Fluid System** 
-- Feed: FDM-Printed PETG 
-- Drainage: FDM-Printed PETG 
-- Sealing feed: Bicycle tube 
+
+**Module: Fluid System**
+- Feed: FDM-Printed PETG
+- Drainage: FDM-Printed PETG
+- Sealing feed: Bicycle tube
 
 
-## Manufacturing: Required tools & machinery 
+## Manufacturing: Required tools & machinery
 - 3D Printer (25 cm build size, e.g. Prusa i3)
 - Sewing machine
 - Jigsaw or CNC Mill
-- basic workshop equipment 
+- basic workshop equipment
 
 Please mind the time it takes to 3D-Print the PETG Parts: one drainage can take about 3 hours, the parts of the tank all together also 6 hours.
 
@@ -167,7 +167,7 @@ Please mind the time it takes to 3D-Print the PETG Parts: one drainage can take 
 We are working on different approaches for assembly instructions. We found the approach of OSH-AUTODOC to be most meaningful and would be happy to hear your feedback. Generally, we also provide How-To Videos on major releases.
 
 ### Assembly Manual
-Follow the [Assembly Manual](https://codeberg.org/LibreWater/Acraea-Prototype/src/branch/main/doc/assembly/Acraea-2-0-assembly-manaual.pdf) for Step-by-step instructions. 
+Follow the [Assembly Manual](https://codeberg.org/LibreWater/Acraea-Prototype/src/branch/main/doc/assembly/Acraea-2-0-assembly-manaual.pdf) for Step-by-step instructions.
 They were created with kind support of OSH-AUTODOC & JC. <br />
 [OSH-AUTODOC](https://codeberg.org/osh-autodoc) is a FreeCAD Add-On under development to (semi) automatically generate documentation for Open Source Hardware. <br />
 For more details, please contact JC or Pieter. <br />
@@ -179,12 +179,12 @@ For more details, please contact JC or Pieter. <br />
  <p align="center">
 <b>Img.07:</b> Example of OSH-Autodoc generated assembly manual
 </p>
- 
+
 
 
 ### Videos
 
-Stay tuned, we are revising the video-assembly with the latest design update and will share it briefly. If you would like to engage and have ideas how to make clear and fun tutorials - please reach out to us on librewater@posteo.net. 
+Stay tuned, we are revising the video-assembly with the latest design update and will share it briefly. If you would like to engage and have ideas how to make clear and fun tutorials - please reach out to us on librewater@posteo.net.
 
 <p align="center">
 <img src="res/assets/media/img/Assembly_Video_Screenshot.png" alt="" width="500" />
@@ -198,18 +198,18 @@ Stay tuned, we are revising the video-assembly with the latest design update and
 ### Process Control
 
 **Heat input**
-The current approach is to have a constant power input of P = 150 W. This is done by adjusting the On- and Off-switching times by an Arduino or ESP32 controlled relay, connected to a 24 V power supply which is powering three 24 V heating pads on the first stage. 
+The current approach is to have a constant power input of P = 150 W. This is done by adjusting the On- and Off-switching times by an Arduino or ESP32 controlled relay, connected to a 24 V power supply which is powering three 24 V heating pads on the first stage.
 
 -> Check out the Wiring.pdf for  the setup and the code under TurtleHeat_v3.ino
 
 **Feed water input**
-The water level (hydrostatic pressure) in the tank regulates the inflow of the non-drinkable water. Filling it up to 2 cm creates maximum feed flow rate. 
-Testing & Validation   
+The water level (hydrostatic pressure) in the tank regulates the inflow of the non-drinkable water. Filling it up to 2 cm creates maximum feed flow rate.
+Testing & Validation
 Vertical Multiple-Effect-Distillation is a simple process:
 Quality and safety can be tested by electric conductivity with a TDS sensor.
 Performance can be assessed by knowing the electric heat input relative to the water output
 
--> For more details, check out our Testing.md (draft stage) 
+-> For more details, check out our Testing.md (draft stage)
 
 ## Research: Acraea for Open Science
 
@@ -217,15 +217,15 @@ Over the past 60 years, countless scientists and a few entrepreneurs have worked
 
 -> Check out selected sources and more info in the Science Folder (soon).
 
-## Ideas for next Iterations:  
-(   ) Electric heating system: replace with locally producable alternative  
-(   ) Adding a tank for longer operation  
-(   ) Increase energy efficiency by adding more stages  
-(   ) Testing an improved Wick design  
-(   ) Testing Wick-Free designs  
-(   ) Scaling Up  
-(   ) Adding insulation  
-(   ) Adding Solar-Thermal Heating Module  
+## Ideas for next Iterations:
+(   ) Electric heating system: replace with locally producable alternative
+(   ) Adding a tank for longer operation
+(   ) Increase energy efficiency by adding more stages
+(   ) Testing an improved Wick design
+(   ) Testing Wick-Free designs
+(   ) Scaling Up
+(   ) Adding insulation
+(   ) Adding Solar-Thermal Heating Module
 
 ## Contact
 Would you like to flow along? Do you have any questions, ideas or general feedback?
@@ -240,36 +240,36 @@ For any inquiries, suggestions, collaborations or just spreading your love, you 
 <b>Img.09:</b> Invitation from the SeaEO of LibreWater
 </p>
 
- 
+
 
 ## Related Open Source Hardware Projects
-We thank Michael for his [Solar Pura](https://www.appropedia.org/Solar_Pura:_High-efficiency_vertical_solar_still) work and Florian for his [MED Prototype](https://github.com/fsteckel/OpenWater). 
+We thank Michael for his [Solar Pura](https://www.appropedia.org/Solar_Pura:_High-efficiency_vertical_solar_still) work and Florian for his [MED Prototype](https://github.com/fsteckel/OpenWater).
 
 ## Contributions from Individuals
-The list of contributors and supporters is endless. What would be an appropriate way to mention all of them? Is it meaningful to do so? We are still thinking about how to give credit and also give back in the best way. 
-One thing is for sure: Without the support of countless kind people from all over the world, we would never have gone on this adventure. You know who you are. It has been most importantly your ideas, your feedback, our sharing of time - often a little, sometimes a lot that has made this project a reality. <br> 
-This is the magic of Open Source Hardware, the magic of people joining together with collective intelligence. 
+The list of contributors and supporters is endless. What would be an appropriate way to mention all of them? Is it meaningful to do so? We are still thinking about how to give credit and also give back in the best way.
+One thing is for sure: Without the support of countless kind people from all over the world, we would never have gone on this adventure. You know who you are. It has been most importantly your ideas, your feedback, our sharing of time - often a little, sometimes a lot that has made this project a reality. <br>
+This is the magic of Open Source Hardware, the magic of people joining together with collective intelligence.
 
-## Support from Institutions and Spaces 
+## Support from Institutions and Spaces
 
 In alphabetical order:
 
-- [Bodossaki Foundation Social Dynamo](https://www.socialdynamo.gr/en/social-dynamo/) (Athens)  
-- [Curious Community Labs](https://curious.bio/) (Hamburg)  
-- [Fabulous St.Pauli](https://www.fablab-hamburg.org/) (Hamburg)  
-- [Fab City Hamburg](https://www.fabcity.hamburg) (Hamburg)  
-- [Hackerspace.gr](https://www.hackerspace.gr) (Athens)  
-- [Helidoni Foundation](https://helidonifoundation.org/) (Athens)  
-- [MIT Water Innovation Prize Semifinals](http://www.mitwaterinnovation.org/) (global)    
-- [Odyssea](https://odyssea.com) (Athens)  
-- [Open Hardware Makers](https://openhardware.space/) (global)  
-- [Prototype Fund Hardware](https://hardware.prototypefund.de/) (Berlin)  
+- [Bodossaki Foundation Social Dynamo](https://www.socialdynamo.gr/en/social-dynamo/) (Athens)
+- [Curious Community Labs](https://curious.bio/) (Hamburg)
+- [Fabulous St.Pauli](https://www.fablab-hamburg.org/) (Hamburg)
+- [Fab City Hamburg](https://www.fabcity.hamburg) (Hamburg)
+- [Hackerspace.gr](https://www.hackerspace.gr) (Athens)
+- [Helidoni Foundation](https://helidonifoundation.org/) (Athens)
+- [MIT Water Innovation Prize Semifinals](http://www.mitwaterinnovation.org/) (global)
+- [Odyssea](https://odyssea.com) (Athens)
+- [Open Hardware Makers](https://openhardware.space/) (global)
+- [Prototype Fund Hardware](https://hardware.prototypefund.de/) (Berlin)
 
 ## Safety Disclaimer
 
 This design has not been tested extensively. It has to be regarded as not yet suitable for:
-- production of water for any other case other than scientific research 
-- Operation without supervision by a skilled operator 
+- production of water for any other case other than scientific research
+- Operation without supervision by a skilled operator
 - Use in external environment
 
 Please be aware that building a water machine can be dangerous and requires full awareness of the risks involved. Blue Greece/Libre Water does not warrant for any contents of the manual and does not assume any risks whatsoever with regard to the contents of this manual or the machine assembled by you. Blue Greece/Libre Water further does not warrant for and does not assume any risks whatsoever with regard to any parts of the machine contained in this manual which are provided by third parties. You need to have the necessary experience in handling the machinery required to build the machine described in this manual. Otherwise you should seek professional advice for building the machine.
