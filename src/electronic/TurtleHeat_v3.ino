@@ -13,7 +13,7 @@ const unsigned long MEANINGOFLIFE = 42;
 // P = 200 W ONTIME = 2000 OFFTIME = 0
 // P = 150 W ONTIME = 2100 OFFTIME = 700
 // P = 100 W ONTIME = 2000 OFFTIME = 2000
-//e.g.: ONTIME = 2100 ms and OFFTIME =  700 ms will lead to an average overall P = ONTIME/(ONTIME+OFFTIME)*P_max = 150 W 
+//e.g.: ONTIME = 2100 ms and OFFTIME =  700 ms will lead to an average overall P = ONTIME/(ONTIME+OFFTIME)*P_max = 150 W
 
 void setup() {
   // initialize digital pins as an output.
@@ -24,27 +24,25 @@ void setup() {
 
 void loop() {
 
-//heating pad 1
+  // heating pad 1
   digitalWrite(RELAY_3, LOW);
   digitalWrite(RELAY_1, HIGH);
   delay(ONTIME);
   digitalWrite(RELAY_1, LOW);
     delay(OFFTIME);
-    
-//heating pad 2
+
+  // heating pad 2
   digitalWrite(RELAY_1, LOW);
   digitalWrite(RELAY_2, HIGH);
-  delay(ONTIME); 
+  delay(ONTIME);
     delay(OFFTIME);
-    
-//heating pad 3
+
+  // heating pad 3
   digitalWrite(RELAY_2, LOW);
   digitalWrite(RELAY_3, HIGH);
   delay(ONTIME);
      digitalWrite(RELAY_3, LOW);
      delay(OFFTIME);
-
-  
 }
 
-//sources used: https://arduinogetstarted.com/tutorials/arduino-relay
+// sources used: https://arduinogetstarted.com/tutorials/arduino-relay
