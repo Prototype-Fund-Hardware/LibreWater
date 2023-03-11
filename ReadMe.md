@@ -264,7 +264,7 @@ Quality and safety can be tested by electric conductivity with a TDS sensor.
 Performance can be assessed by knowing the electric heat input
 relative to the water output
 
--> For more details, check out our Testing.md (draft stage)
+-> For more details, check out our Testing.md (draft stage) <!-- TODO That file does not exist in the repo! -->
 
 ## Research: Acraea for Open Science
 
