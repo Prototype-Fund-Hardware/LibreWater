@@ -1,8 +1,8 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: Acraea
 Upstream-Contact:
-    2023 Terry Turtle <librewater@posteo.net>
-    2023 inspyros <spyros@bluegreece.org>
+    Terry Turtle <librewater@posteo.net>
+    inspyros <spyros@bluegreece.org>
 Source: https://codeberg.org/LibreWater/Acraea-Prototype/
 
 Files: gen/**.*
