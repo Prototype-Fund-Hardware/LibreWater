@@ -111,7 +111,7 @@ and heating the next saltwater film for evaporation.
 Check out a short video of the running module here:
 
 <p align="center">
-<a href="https://youtu.be/kDWv2w7YqlU" target="_blank">
+<a href="https://www.youtube.com/watch?v=kDWv2w7YqlU" target="_blank">
   <img width="500"  border="0" align="center" src="res/assets/media/img/Preview_YouTube_VMED_play.jpg"/>
 </a>
 </p>
