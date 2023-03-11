@@ -67,9 +67,7 @@ This applies to all design files (CAD, BOM, etc.).
 
 <p align="center">
 <img src="res/assets/media/img/white_background.jpg" alt="" width="800" />
-</p>
-
-<p align="center">
+</br>
 <b>Img.01:</b> Render of assembled Prototype
 </p>
 
@@ -120,9 +118,7 @@ Check out a short video of the running module here:
 
 <p align="center">
 <img src="res/assets/media/img/VMED_Process_Drops.jpg" alt="" width="800" />
-</p>
-
-<p align="center">
+</br>
 <b>Img.03:</b>
 Acraea 2.0 Running with removed sidewall.
 Heating plate on left corner of the photograph.
@@ -131,9 +127,7 @@ Drops are growing from the condensation of pure steam.
 
 <p align="center">
 <img src="res/assets/media/img/VMED_Process_Schematics.jpg" alt="" width="800" />
-</p>
-
- <p align="center">
+</br>
 <b>Img.04:</b> Process Schematics:
 The heat from condensation of fresh water is transferred ot the next stage
 </p>
@@ -170,17 +164,13 @@ please check out DesignPath.pdf (comming soon) <!-- TODO Add this file! -->
 
 <p align="center">
 <img src="res/assets/media/img/Render_Explosion_View.jpg" alt="" width="600" />
-</p>
-
- <p align="center">
+</br>
 <b>Img.05</b>: Render: Explosion View
 </p>
 
 <p align="center">
 <img src="res/assets/media/img/Components_Top_View.jpg" alt="" width="600" />
-</p>
-
- <p align="center">
+</br>
 <b>Img.06:</b> Render: Top view of components
 </p>
 
@@ -232,9 +222,7 @@ For more details, please contact JC or Pieter. <!-- TODO Add contact info/link! 
 
 <p align="center">
 <img src="res/assets/media/img/OSH-Autodoc_Preview.jpg" alt="" width="800" />
-</p>
-
- <p align="center">
+</br>
 <b>Img.07:</b> Example of OSH-Autodoc generated assembly manual
 </p>
 
@@ -248,9 +236,7 @@ please reach out to us on <mailto:librewater@posteo.net>.
 
 <p align="center">
 <img src="res/assets/media/img/Assembly_Video_Screenshot.png" alt="" width="500" />
-</p>
-
- <p align="center">
+</br>
 <b>Img.08:</b> Screenshot of How-To Assembly Video
 </p>
 
@@ -314,9 +300,7 @@ you may reach us at <mailto:librewater@posteo.net>.
 
 <p align="center">
 <img src="res/assets/media/img/SeaEO.jpg" alt="" width="600" />
-</p>
-
- <p align="center">
+</br>
 <b>Img.09:</b> Invitation from the SeaEO of LibreWater
 </p>
 
