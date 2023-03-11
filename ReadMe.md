@@ -65,7 +65,7 @@ This applies to all design files (CAD, BOM, etc.).
 - [x] Compatible for modular scale-up
 
 <p align="center">
-<img src="res/assets/media/img/Acraea2.0_white.jpg" alt="" width="800" />
+<img src="res/assets/media/img/white_background.jpg" alt="" width="800" />
 </p>
 
 <p align="center">
@@ -168,7 +168,7 @@ For following our design choices and to bring in your own ideas,
 please check out DesignPath.pdf (comming soon) <!-- TODO Add this file! -->
 
 <p align="center">
-<img src="res/assets/media/img/Acraea_2.0_Render_Explosion_View.jpg" alt="" width="600" />
+<img src="res/assets/media/img/Render_Explosion_View.jpg" alt="" width="600" />
 </p>
 
  <p align="center">
