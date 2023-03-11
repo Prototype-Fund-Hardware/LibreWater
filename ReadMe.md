@@ -144,7 +144,7 @@ The heat from condensation of fresh water is transferred ot the next stage
 - accessible setup for the functioning principle of Multiple-Effect-Distillation
 - experimenting with heat transfer across plates and stages
 - experimenting with fluid dynamics with different wicks or wick-free structures
-- study behaviour of alternative materials & biomaterials
+- study behaviour of alternative materials & bio-materials
 
 ### Education
 
@@ -160,7 +160,7 @@ Acraea has been designed with circularity and modularity in mind.
 For the full part overview with more details,
 check out the [Bill-Of-Materials](gen/bom.pdf).
 For following our design choices and to bring in your own ideas,
-please check out DesignPath.pdf (comming soon) <!-- TODO Add this file! -->
+please check out DesignPath.pdf (coming soon) <!-- TODO Add this file! -->
 
 <p align="center">
 <img src="res/assets/media/img/Render_Explosion_View.jpg" alt="" width="600" />
