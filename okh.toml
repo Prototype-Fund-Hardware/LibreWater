@@ -1,0 +1,29 @@
+# SPDX-FileCopyrightText: 2023 Terry Turtle <librewater@posteo.net>
+# SPDX-FileCopyrightText: 2023 inspyros <spyros@bluegreece.org>
+#
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+okhv = "OKH-LOSHv1.0"
+name = "Acraea-Prototype"
+repo = "https://codeberg.org/LibreWater/Acraea-Prototype/"
+version = "2.0.0"
+release = "https://codeberg.org/LibreWater/Acraea-Prototype/src/tag/2.0.0"
+license = "CERN-OHL-S-2.0"
+licensor = "Terry Turtle <librewater@posteo.net>"
+organization = "LibreWater"
+readme = "ReadMe.md"
+image = "res/assets/media/img/white_background.jpg"
+documentation-language = "en-GB"
+technology-readiness-level = "OTRL-3"
+documentation-readiness-level = "ODRL-3"
+function = "A Small Scale Solar Desalination and Water Purification Prototype. It is powered by electric heating for scientific purpose."
+#cpc-patent-class = "D03D 35/00"
+#tsdc = "MEC"
+bom = "bom.ods"
+manufacturing-instructions = "doc/assembly/wiring.odp"
+#user-manual = "Documentation/User_Guide/UserGuide.md"
+
+#[outer-dimensions]
+#openSCAD = "cube(size = [400,350,150])"
+#unit = "mm"
+
