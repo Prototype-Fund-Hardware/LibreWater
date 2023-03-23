@@ -1,0 +1,67 @@
+#!/usr/bin/env bash
+# SPDX-FileCopyrightText: 2023 Robin Vobruba <hoijui.quaero@gmail.com>
+# SPDX-License-Identifier: CERN-OHL-S-2.0
+
+# Dependencies:
+# apt-get install libreoffice
+
+script_path="$(readlink -f "${BASH_SOURCE[0]}")"
+script_dir="$(dirname "$script_path")"
+script_name="$(basename "$script_path")"
+
+function print_help() {
+
+	echo -e "$script_name -"
+	echo -e "Converts an ODS (Open Document Sheet"
+	echo -e "=> LibreOffice/OpenOffice Spead-Sheet (MS Excel alternative))"
+	echo -e "to a CSV (Comma Separated Values) file."
+	echo -e ""
+	echo -e "Usage:"
+	echo -e "\t$script_name [OPTION...]"
+	echo -e "Options:"
+	echo -e "\t-h, --help"
+	echo -e "\t\tPrint this usage help and exits"
+	echo -e ""
+}
+
+# Process command line arguments
+POSITIONAL=()
+while [[ $# -gt 0 ]]
+do
+	arg="$1"
+	shift # $2 -> $1, $3 -> $2, ...
+
+	case "$arg" in
+		-h|--help)
+			print_help
+			exit 0
+			;;
+		*) # non-/unknown option
+			POSITIONAL+=("$arg") # save it in an array for later
+			;;
+	esac
+done
+set -- "${POSITIONAL[@]}" # restore positional parameters
+
+in_ods="${1:-}"
+out_csv="${2:-}"
+
+if [ -z "$in_ods" ]
+then
+	>&2 echo "ERROR: Please supply the ODS input file to convert to a CSV file."
+	exit 1
+fi
+
+if [ -z "$out_csv" ]
+then
+	out_csv="${in_ods%.*}.csv"
+fi
+
+mkdir -p "$(dirname "$out_csv")"
+
+echo "Generating '$out_csv' (from '$in_ods') ..."
+unoconv \
+	--format csv \
+	--output "$out_csv" \
+	"$in_ods"
+#	-e FilterOptions="Text - txt - csv (StarCalc)":"44,34,UNICODE,1" \

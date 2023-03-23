@@ -1,0 +1,58 @@
+#!/usr/bin/env bash
+# SPDX-FileCopyrightText: 2023 Robin Vobruba <hoijui.quaero@gmail.com>
+# SPDX-License-Identifier: CERN-OHL-S-2.0
+#
+# See the output of "$0 -h" for details.
+
+# Exit immediately on each error and unset variable;
+# see: https://vaneyckt.io/posts/safer_bash_scripts_with_set_euxo_pipefail/
+set -Eeuo pipefail
+#set -Eeu
+
+script_path="$(readlink -f "${BASH_SOURCE[0]}")"
+script_dir="$(dirname "$script_path")"
+script_name="$(basename "$script_path")"
+root="$script_dir/.."
+target="$root/public"
+
+function print_help() {
+
+	echo -e "$script_name -"
+	echo -e "Generates all the export formats LibreOffice files in this repo."
+	echo -e ""
+	echo -e "Usage:"
+	echo -e "\t$script_name [OPTION...]"
+	echo -e "Options:"
+	echo -e "\t-h, --help"
+	echo -e "\t\tPrint this usage help and exits"
+	echo -e ""
+}
+
+# Process command line arguments
+while [[ $# -gt 0 ]]
+do
+	arg="$1"
+	shift # $2 -> $1, $3 -> $2, ...
+
+	case "$arg" in
+		-h|--help)
+			print_help
+			exit 0
+			;;
+		*) # non-/unknown option
+			echoerr "Unknown flag: '$arg'"
+			exit 1
+			;;
+	esac
+done
+
+echo
+echo '# Generating exports from LibreOffice files ...'
+
+ods2csv="$script_dir/ods2csv"
+odp2pdf="$script_dir/odp2pdf"
+
+"$ods2csv" "bom.ods" "$target/bom.csv"
+"$odp2pdf" "doc/assembly/wiring.odp" "$target/assembly/wiring.pdf"
+
+echo 'done.'
