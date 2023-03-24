@@ -48,22 +48,22 @@ This applies to all design files (CAD, BOM, etc.).
 
 ### Acraea is
 
-- [x] a [fresh water Nymph](https://en.wikipedia.org/wiki/Acraea)
+- \[x\] a [fresh water Nymph](https://en.wikipedia.org/wiki/Acraea)
   from ancient Greek mythology.
-- [x] a Small Scale Desalination and Water Purification Prototype
+- \[x\] a Small Scale Desalination and Water Purification Prototype
   that is powered by electric heating
   and has a built-in energy recovery using four stages.
-- [ ] patented
-- [x] [free (as in freedom) - so anyone can study, modify, distribute, make,
+- \[ \] patented
+- \[x\] [free (as in freedom) - so anyone can study, modify, distribute, make,
   and sell the design](https://www.oshwa.org/definition/)
 
 ### Version 2.0 of Acraea is
 
-- [x] able to produce a limited amount of pure water from almost any water source
-- [x] a Modular Design compatible for adaptation to solar-thermal
+- \[x\] able to produce a limited amount of pure water from almost any water source
+- \[x\] a Modular Design compatible for adaptation to solar-thermal
   and other heat sources
-- [x] a Circular Design compatible for flexible mid-term design evolution
-- [x] Compatible for modular scale-up
+- \[x\] a Circular Design compatible for flexible mid-term design evolution
+- \[x\] Compatible for modular scale-up
 
 <p align="center">
 <img src="res/assets/media/img/white_background.jpg" alt="" width="800" />
@@ -281,14 +281,14 @@ in the Science Folder (soon) <!-- TODO Add this folder! -->
 
 ## Ideas for next Iterations
 
-- [ ] Electric heating system: replace with locally producable alternative
-- [ ] Adding a tank for longer operation
-- [ ] Increase energy efficiency by adding more stages
-- [ ] Testing an improved Wick design
-- [ ] Testing Wick-Free designs
-- [ ] Scaling Up
-- [ ] Adding insulation
-- [ ] Adding Solar-Thermal Heating Module
+- \[ \] Electric heating system: replace with locally producable alternative
+- \[ \] Adding a tank for longer operation
+- \[ \] Increase energy efficiency by adding more stages
+- \[ \] Testing an improved Wick design
+- \[ \] Testing Wick-Free designs
+- \[ \] Scaling Up
+- \[ \] Adding insulation
+- \[ \] Adding Solar-Thermal Heating Module
 
 ## Contact
 
