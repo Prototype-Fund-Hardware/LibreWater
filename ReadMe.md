@@ -235,7 +235,11 @@ If you would like to engage and have ideas how to make clear and fun tutorials,
 please reach out to us on <mailto:librewater@posteo.net>.
 
 <p align="center">
-<img src="res/assets/media/img/Assembly_Video_Screenshot.png" alt="" width="500" />
+<img
+    src="res/assets/media/img/Assembly_Video_Screenshot.png"
+    alt=""
+    width="500"
+    />
 </br>
 <b>Img.08:</b> Screenshot of How-To Assembly Video
 </p>
@@ -264,7 +268,8 @@ Quality and safety can be tested by electric conductivity with a TDS sensor.
 Performance can be assessed by knowing the electric heat input
 relative to the water output
 
--> For more details, check out our Testing.md (draft stage) <!-- TODO That file does not exist in the repo! -->
+<!-- TODO That file does not exist in the repo! -->
+-> For more details, check out our Testing.md (draft stage)
 
 ## Research: Acraea for Open Science
 
