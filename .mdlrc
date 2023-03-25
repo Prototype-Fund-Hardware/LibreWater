@@ -1,0 +1,10 @@
+# SPDX-FileCopyrightText: 2021-2023 Robin Vobruba <hoijui.quaero@gmail.com>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+# This file is automatically found and used
+# by the markdown-linter:
+# <https://github.com/markdownlint/markdownlint>
+
+style "#{File.dirname(__FILE__)}/.mdl_style.rb"
+git_recurse true
